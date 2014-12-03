@@ -1,6 +1,6 @@
 <?php
 
-// Get 3 commands from user
+// Get 2 commands from user
 $url = readline("url: ");
 $ep  = readline("EP. NO.: ");
 
